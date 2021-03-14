@@ -239,499 +239,499 @@ HTML template:
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(1) {
-  -webkit-transform-origin: 89px 11px;
-          transform-origin: 89px 11px;
-  background: #d59b76;
+  -webkit-transform-origin: 87px 11px;
+          transform-origin: 87px 11px;
+  background: #c0d378;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.3s;
-  transition: all 0.3s;
+  -webkit-transition: all 0.6s;
+  transition: all 0.6s;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(2) {
-  -webkit-transform-origin: 88px 14px;
-          transform-origin: 88px 14px;
-  background: #778bd4;
+  -webkit-transform-origin: 85px 16px;
+          transform-origin: 85px 16px;
+  background: #c778d3;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 1s;
-  transition: all 1s;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(3) {
-  -webkit-transform-origin: 83px 10px;
-          transform-origin: 83px 10px;
-  background: #d1d874;
+  -webkit-transform-origin: 84px 17px;
+          transform-origin: 84px 17px;
+  background: #a0d378;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.7s;
-  transition: all 0.7s;
+  -webkit-transition: all 0.6s;
+  transition: all 0.6s;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(4) {
-  -webkit-transform-origin: 81px 10px;
-          transform-origin: 81px 10px;
-  background: #d17b8d;
+  -webkit-transform-origin: 80px 16px;
+          transform-origin: 80px 16px;
+  background: #d0947c;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.8s;
-  transition: all 0.8s;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(5) {
-  -webkit-transform-origin: 84px 13px;
-          transform-origin: 84px 13px;
-  background: #8f75d7;
+  -webkit-transform-origin: 83px 14px;
+          transform-origin: 83px 14px;
+  background: #d79c75;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.2s;
-  transition: all 0.2s;
+  -webkit-transition: all 1s;
+  transition: all 1s;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(6) {
-  -webkit-transform-origin: 80px 14px;
-          transform-origin: 80px 14px;
-  background: #7cbfd0;
+  -webkit-transform-origin: 80px 12px;
+          transform-origin: 80px 12px;
+  background: #78cfd3;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.3s;
-  transition: all 0.3s;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(7) {
-  -webkit-transform-origin: 81px 14px;
-          transform-origin: 81px 14px;
-  background: #d67687;
+  -webkit-transform-origin: 84px 17px;
+          transform-origin: 84px 17px;
+  background: #75d7d4;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.3s;
-  transition: all 0.3s;
+  -webkit-transition: all 0.6s;
+  transition: all 0.6s;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(8) {
-  -webkit-transform-origin: 83px 13px;
-          transform-origin: 83px 13px;
-  background: #b77ad1;
+  -webkit-transform-origin: 87px 14px;
+          transform-origin: 87px 14px;
+  background: #d68476;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.4s;
-  transition: all 0.4s;
+  -webkit-transition: all 0.6s;
+  transition: all 0.6s;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(9) {
-  -webkit-transform-origin: 86px 19px;
-          transform-origin: 86px 19px;
-  background: #94d775;
+  -webkit-transform-origin: 87px 19px;
+          transform-origin: 87px 19px;
+  background: #d077d4;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.8s;
-  transition: all 0.8s;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(10) {
-  -webkit-transform-origin: 82px 19px;
-          transform-origin: 82px 19px;
-  background: #77d4a9;
+  -webkit-transform-origin: 88px 13px;
+          transform-origin: 88px 13px;
+  background: #81d17a;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.2s;
-  transition: all 0.2s;
+  -webkit-transition: all 1s;
+  transition: all 1s;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(11) {
-  -webkit-transform-origin: 85px 19px;
-          transform-origin: 85px 19px;
-  background: #bc79d2;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.4s;
-  transition: all 0.4s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(12) {
-  -webkit-transform-origin: 84px 16px;
-          transform-origin: 84px 16px;
-  background: #d17b7a;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.7s;
-  transition: all 0.7s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(13) {
-  -webkit-transform-origin: 80px 16px;
-          transform-origin: 80px 16px;
-  background: #d874bb;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 1s;
-  transition: all 1s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(14) {
-  -webkit-transform-origin: 84px 10px;
-          transform-origin: 84px 10px;
-  background: #d38978;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 1s;
-  transition: all 1s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(15) {
-  -webkit-transform-origin: 82px 16px;
-          transform-origin: 82px 16px;
-  background: #d5ba76;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.1s;
-  transition: all 0.1s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(16) {
-  -webkit-transform-origin: 89px 11px;
-          transform-origin: 89px 11px;
-  background: #d69e76;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.6s;
-  transition: all 0.6s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(17) {
-  -webkit-transform-origin: 85px 14px;
-          transform-origin: 85px 14px;
-  background: #74b1d8;
+  -webkit-transform-origin: 88px 13px;
+          transform-origin: 88px 13px;
+  background: #d1c57b;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
   -webkit-transition: all 0.8s;
   transition: all 0.8s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(18) {
-  -webkit-transform-origin: 80px 15px;
-          transform-origin: 80px 15px;
-  background: #7b96d1;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(12) {
+  -webkit-transform-origin: 82px 11px;
+          transform-origin: 82px 11px;
+  background: #77d498;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.4s;
-  transition: all 0.4s;
+  -webkit-transition: all 1s;
+  transition: all 1s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(19) {
-  -webkit-transform-origin: 85px 15px;
-          transform-origin: 85px 15px;
-  background: #d5ae76;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(13) {
+  -webkit-transform-origin: 87px 15px;
+          transform-origin: 87px 15px;
+  background: #7ad1cf;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(20) {
-  -webkit-transform-origin: 89px 11px;
-          transform-origin: 89px 11px;
-  background: #76d6ab;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(14) {
+  -webkit-transform-origin: 82px 12px;
+          transform-origin: 82px 12px;
+  background: #7bd182;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.3s;
-  transition: all 0.3s;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(21) {
-  -webkit-transform-origin: 85px 15px;
-          transform-origin: 85px 15px;
-  background: #82d676;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(15) {
+  -webkit-transform-origin: 86px 14px;
+          transform-origin: 86px 14px;
+  background: #d1817b;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
   -webkit-transition: all 0.7s;
   transition: all 0.7s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(22) {
-  -webkit-transform-origin: 84px 13px;
-          transform-origin: 84px 13px;
-  background: #d68f76;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 1s;
-  transition: all 1s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(23) {
-  -webkit-transform-origin: 87px 10px;
-          transform-origin: 87px 10px;
-  background: #76d596;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 1s;
-  transition: all 1s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(24) {
-  -webkit-transform-origin: 89px 18px;
-          transform-origin: 89px 18px;
-  background: #b776d6;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(16) {
+  -webkit-transform-origin: 84px 16px;
+          transform-origin: 84px 16px;
+  background: #907bd1;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
   -webkit-transition: all 0.1s;
   transition: all 0.1s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(25) {
-  -webkit-transform-origin: 84px 10px;
-          transform-origin: 84px 10px;
-  background: #ced477;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.7s;
-  transition: all 0.7s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(26) {
-  -webkit-transform-origin: 84px 18px;
-          transform-origin: 84px 18px;
-  background: #c1d279;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.7s;
-  transition: all 0.7s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(27) {
-  -webkit-transform-origin: 83px 11px;
-          transform-origin: 83px 11px;
-  background: #c276d5;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.3s;
-  transition: all 0.3s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(28) {
-  -webkit-transform-origin: 87px 19px;
-          transform-origin: 87px 19px;
-  background: #d2c679;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.2s;
-  transition: all 0.2s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(29) {
-  -webkit-transform-origin: 85px 19px;
-          transform-origin: 85px 19px;
-  background: #77d490;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.5s;
-  transition: all 0.5s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(30) {
-  -webkit-transform-origin: 88px 14px;
-          transform-origin: 88px 14px;
-  background: #c7d378;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.9s;
-  transition: all 0.9s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(31) {
-  -webkit-transform-origin: 84px 19px;
-          transform-origin: 84px 19px;
-  background: #76bad5;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.4s;
-  transition: all 0.4s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(32) {
-  -webkit-transform-origin: 82px 14px;
-          transform-origin: 82px 14px;
-  background: #c1d17a;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(17) {
+  -webkit-transform-origin: 86px 13px;
+          transform-origin: 86px 13px;
+  background: #7bd1ce;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
   -webkit-transition: all 0.6s;
   transition: all 0.6s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(33) {
-  -webkit-transform-origin: 85px 14px;
-          transform-origin: 85px 14px;
-  background: #d7757b;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.4s;
-  transition: all 0.4s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(34) {
-  -webkit-transform-origin: 87px 14px;
-          transform-origin: 87px 14px;
-  background: #d7759a;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.9s;
-  transition: all 0.9s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(35) {
-  -webkit-transform-origin: 85px 13px;
-          transform-origin: 85px 13px;
-  background: #79d2b3;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.4s;
-  transition: all 0.4s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(36) {
-  -webkit-transform-origin: 89px 18px;
-          transform-origin: 89px 18px;
-  background: #a77ad1;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 1s;
-  transition: all 1s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(37) {
-  -webkit-transform-origin: 82px 10px;
-          transform-origin: 82px 10px;
-  background: #78d3ac;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(18) {
+  -webkit-transform-origin: 83px 12px;
+          transform-origin: 83px 12px;
+  background: #9275d7;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
   -webkit-transition: all 0.1s;
   transition: all 0.1s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(38) {
-  -webkit-transform-origin: 82px 10px;
-          transform-origin: 82px 10px;
-  background: #91d676;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(19) {
+  -webkit-transform-origin: 87px 15px;
+          transform-origin: 87px 15px;
+  background: #d78a75;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(39) {
-  -webkit-transform-origin: 81px 19px;
-          transform-origin: 81px 19px;
-  background: #76d6bb;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(20) {
+  -webkit-transform-origin: 86px 18px;
+          transform-origin: 86px 18px;
+  background: #89d676;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.6s;
+  transition: all 0.6s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(21) {
+  -webkit-transform-origin: 80px 12px;
+          transform-origin: 80px 12px;
+  background: #b47cd0;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(22) {
+  -webkit-transform-origin: 86px 18px;
+          transform-origin: 86px 18px;
+  background: #d775cb;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.7s;
+  transition: all 0.7s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(23) {
+  -webkit-transform-origin: 82px 19px;
+          transform-origin: 82px 19px;
+  background: #7ad1a9;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.6s;
+  transition: all 0.6s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(24) {
+  -webkit-transform-origin: 83px 19px;
+          transform-origin: 83px 19px;
+  background: #76b9d6;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(25) {
+  -webkit-transform-origin: 86px 14px;
+          transform-origin: 86px 14px;
+  background: #d4777c;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.6s;
+  transition: all 0.6s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(26) {
+  -webkit-transform-origin: 81px 18px;
+          transform-origin: 81px 18px;
+  background: #d1c07a;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(27) {
+  -webkit-transform-origin: 83px 12px;
+          transform-origin: 83px 12px;
+  background: #d5768d;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(28) {
+  -webkit-transform-origin: 81px 10px;
+          transform-origin: 81px 10px;
+  background: #c4d576;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.8s;
+  transition: all 0.8s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(29) {
+  -webkit-transform-origin: 82px 10px;
+          transform-origin: 82px 10px;
+  background: #76c9d6;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(40) {
-  -webkit-transform-origin: 83px 14px;
-          transform-origin: 83px 14px;
-  background: #7cd0a2;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.5s;
-  transition: all 0.5s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(41) {
-  -webkit-transform-origin: 81px 14px;
-          transform-origin: 81px 14px;
-  background: #76d5bc;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(30) {
+  -webkit-transform-origin: 82px 12px;
+          transform-origin: 82px 12px;
+  background: #76d6a6;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
   -webkit-transition: all 1s;
   transition: all 1s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(42) {
-  -webkit-transform-origin: 87px 19px;
-          transform-origin: 87px 19px;
-  background: #d37878;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(31) {
+  -webkit-transform-origin: 88px 19px;
+          transform-origin: 88px 19px;
+  background: #7ad1b3;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.1s;
-  transition: all 0.1s;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(43) {
-  -webkit-transform-origin: 83px 13px;
-          transform-origin: 83px 13px;
-  background: #7ed477;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(32) {
+  -webkit-transform-origin: 82px 12px;
+          transform-origin: 82px 12px;
+  background: #d17a8a;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(44) {
-  -webkit-transform-origin: 88px 16px;
-          transform-origin: 88px 16px;
-  background: #d7758d;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(33) {
+  -webkit-transform-origin: 82px 10px;
+          transform-origin: 82px 10px;
+  background: #d27982;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.1s;
-  transition: all 0.1s;
+  -webkit-transition: all 0.6s;
+  transition: all 0.6s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(45) {
-  -webkit-transform-origin: 85px 13px;
-          transform-origin: 85px 13px;
-  background: #7cd0a4;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.2s;
-  transition: all 0.2s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(46) {
-  -webkit-transform-origin: 80px 17px;
-          transform-origin: 80px 17px;
-  background: #d67677;
-  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.2s;
-  transition: all 0.2s;
-}
-
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(47) {
-  -webkit-transform-origin: 80px 16px;
-          transform-origin: 80px 16px;
-  background: #75d78c;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(34) {
+  -webkit-transform-origin: 80px 11px;
+          transform-origin: 80px 11px;
+  background: #79ced2;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(48) {
-  -webkit-transform-origin: 83px 15px;
-          transform-origin: 83px 15px;
-  background: #d69c76;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(35) {
+  -webkit-transform-origin: 83px 16px;
+          transform-origin: 83px 16px;
+  background: #d07cae;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(36) {
+  -webkit-transform-origin: 80px 17px;
+          transform-origin: 80px 17px;
+  background: #d49e77;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
 }
 
-.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(49) {
-  -webkit-transform-origin: 87px 16px;
-          transform-origin: 87px 16px;
-  background: #7688d5;
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(37) {
+  -webkit-transform-origin: 87px 15px;
+          transform-origin: 87px 15px;
+  background: #d177d4;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.1s;
-  transition: all 0.1s;
+  -webkit-transition: all 0.9s;
+  transition: all 0.9s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(38) {
+  -webkit-transform-origin: 80px 17px;
+          transform-origin: 80px 17px;
+  background: #77d4a9;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(39) {
+  -webkit-transform-origin: 88px 18px;
+          transform-origin: 88px 18px;
+  background: #bfd676;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.8s;
+  transition: all 0.8s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(40) {
+  -webkit-transform-origin: 88px 17px;
+          transform-origin: 88px 17px;
+  background: #7babd1;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(41) {
+  -webkit-transform-origin: 87px 11px;
+          transform-origin: 87px 11px;
+  background: #d8c774;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(42) {
+  -webkit-transform-origin: 86px 19px;
+          transform-origin: 86px 19px;
+  background: #d78875;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.6s;
+  transition: all 0.6s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(43) {
+  -webkit-transform-origin: 87px 18px;
+          transform-origin: 87px 18px;
+  background: #d278d3;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.8s;
+  transition: all 0.8s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(44) {
+  -webkit-transform-origin: 83px 15px;
+          transform-origin: 83px 15px;
+  background: #7cc2d0;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(45) {
+  -webkit-transform-origin: 82px 19px;
+          transform-origin: 82px 19px;
+  background: #d87774;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(46) {
+  -webkit-transform-origin: 84px 13px;
+          transform-origin: 84px 13px;
+  background: #d08b7c;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(47) {
+  -webkit-transform-origin: 89px 14px;
+          transform-origin: 89px 14px;
+  background: #74d8ac;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(48) {
+  -webkit-transform-origin: 85px 13px;
+          transform-origin: 85px 13px;
+  background: #d08a7c;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.7s;
+  transition: all 0.7s;
+}
+
+.button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(49) {
+  -webkit-transform-origin: 81px 17px;
+          transform-origin: 81px 17px;
+  background: #d49377;
+  -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+          box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
+  -webkit-transition: all 0.9s;
+  transition: all 0.9s;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(50) {
-  -webkit-transform-origin: 85px 16px;
-          transform-origin: 85px 16px;
-  background: #7ad187;
+  -webkit-transform-origin: 81px 14px;
+          transform-origin: 81px 14px;
+  background: #d279b8;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
   -webkit-transition: all 0.7s;
@@ -739,9 +739,9 @@ HTML template:
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(51) {
-  -webkit-transform-origin: 80px 10px;
-          transform-origin: 80px 10px;
-  background: #c7d676;
+  -webkit-transform-origin: 83px 19px;
+          transform-origin: 83px 19px;
+  background: #d48877;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
   -webkit-transition: all 0.3s;
@@ -749,35 +749,35 @@ HTML template:
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-of-type(52) {
-  -webkit-transform-origin: 80px 13px;
-          transform-origin: 80px 13px;
-  background: #d1a67a;
+  -webkit-transform-origin: 81px 19px;
+          transform-origin: 81px 19px;
+  background: #7c8bd0;
   -webkit-box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
           box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.12);
-  -webkit-transition: all 0.5s;
-  transition: all 0.5s;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(1) {
-  padding: 5px;
+  padding: 3px;
   left: -4.5%;
   top: 100%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(2) {
-  padding: 5px;
+  padding: 3px;
   left: 1%;
   top: 100%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(3) {
-  padding: 4px;
+  padding: 5px;
   left: 6.5%;
   top: 100%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(4) {
-  padding: 5px;
+  padding: 4px;
   left: 12%;
   top: 100%;
 }
@@ -789,7 +789,7 @@ HTML template:
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(6) {
-  padding: 5px;
+  padding: 3px;
   left: 23%;
   top: 100%;
 }
@@ -807,13 +807,13 @@ HTML template:
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(9) {
-  padding: 4px;
+  padding: 3px;
   left: 39.5%;
   top: 100%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(10) {
-  padding: 3px;
+  padding: 4px;
   left: 45%;
   top: 100%;
 }
@@ -831,13 +831,13 @@ HTML template:
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(13) {
-  padding: 5px;
+  padding: 4px;
   left: 61.5%;
   top: 100%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(14) {
-  padding: 3px;
+  padding: 5px;
   left: 67%;
   top: 100%;
 }
@@ -867,25 +867,25 @@ HTML template:
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(19) {
-  padding: 4px;
+  padding: 3px;
   left: 94.5%;
   top: 100%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(20) {
-  padding: 5px;
+  padding: 4px;
   left: 100%;
   top: 100%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(21) {
-  padding: 4px;
+  padding: 3px;
   left: 1%;
   top: -5%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(22) {
-  padding: 3px;
+  padding: 5px;
   left: 6.5%;
   top: -5%;
 }
@@ -897,7 +897,7 @@ HTML template:
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(24) {
-  padding: 4px;
+  padding: 3px;
   left: 17.5%;
   top: -5%;
 }
@@ -909,13 +909,13 @@ HTML template:
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(26) {
-  padding: 3px;
+  padding: 4px;
   left: 28.5%;
   top: -5%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(27) {
-  padding: 4px;
+  padding: 5px;
   left: 34%;
   top: -5%;
 }
@@ -951,19 +951,19 @@ HTML template:
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(33) {
-  padding: 3px;
+  padding: 5px;
   left: 67%;
   top: -5%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(34) {
-  padding: 3px;
+  padding: 4px;
   left: 72.5%;
   top: -5%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(35) {
-  padding: 5px;
+  padding: 4px;
   left: 78%;
   top: -5%;
 }
@@ -975,19 +975,19 @@ HTML template:
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(37) {
-  padding: 3px;
+  padding: 5px;
   left: 89%;
   top: -5%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(38) {
-  padding: 3px;
+  padding: 4px;
   left: 94.5%;
   top: -5%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(39) {
-  padding: 5px;
+  padding: 4px;
   left: 100%;
   top: -5%;
 }
@@ -999,7 +999,7 @@ HTML template:
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(41) {
-  padding: 4px;
+  padding: 3px;
   left: 98%;
   top: 30%;
 }
@@ -1011,31 +1011,31 @@ HTML template:
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(43) {
-  padding: 5px;
+  padding: 4px;
   left: 98%;
   top: 50%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(44) {
-  padding: 5px;
+  padding: 4px;
   left: 98%;
   top: 60%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(45) {
-  padding: 4px;
+  padding: 3px;
   left: 98%;
   top: 70%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(46) {
-  padding: 3px;
+  padding: 4px;
   left: 98%;
   top: 80%;
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(47) {
-  padding: 5px;
+  padding: 4px;
   left: -3%;
   top: 20%;
 }
@@ -1053,7 +1053,7 @@ HTML template:
 }
 
 .button--fizzy .fizzy-spots-container .fizzy-spot:nth-child(50) {
-  padding: 5px;
+  padding: 3px;
   left: -3%;
   top: 50%;
 }
@@ -1071,48 +1071,48 @@ HTML template:
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(1) {
-  -webkit-animation: moveSpot-1 0.5s 1.03333s linear infinite;
-          animation: moveSpot-1 0.5s 1.03333s linear infinite;
+  -webkit-animation: moveSpot-1 0.5s 0.75714s linear infinite;
+          animation: moveSpot-1 0.5s 0.75714s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(2) {
-  -webkit-animation: moveSpot-2 0.5s 0.75714s linear infinite;
-          animation: moveSpot-2 0.5s 0.75714s linear infinite;
+  -webkit-animation: moveSpot-2 0.5s 0.35714s linear infinite;
+          animation: moveSpot-2 0.5s 0.35714s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(3) {
-  -webkit-animation: moveSpot-3 0.5s 0.4s linear infinite;
-          animation: moveSpot-3 0.5s 0.4s linear infinite;
+  -webkit-animation: moveSpot-3 0.5s 0.14s linear infinite;
+          animation: moveSpot-3 0.5s 0.14s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(4) {
-  -webkit-animation: moveSpot-4 0.5s 0.96667s linear infinite;
-          animation: moveSpot-4 0.5s 0.96667s linear infinite;
+  -webkit-animation: moveSpot-4 0.5s 0.5s linear infinite;
+          animation: moveSpot-4 0.5s 0.5s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(5) {
-  -webkit-animation: moveSpot-5 0.5s 0.94444s linear infinite;
-          animation: moveSpot-5 0.5s 0.94444s linear infinite;
+  -webkit-animation: moveSpot-5 0.5s 0.53333s linear infinite;
+          animation: moveSpot-5 0.5s 0.53333s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(6) {
-  -webkit-animation: moveSpot-6 0.5s 0.6s linear infinite;
-          animation: moveSpot-6 0.5s 0.6s linear infinite;
+  -webkit-animation: moveSpot-6 0.5s 0.35s linear infinite;
+          animation: moveSpot-6 0.5s 0.35s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(7) {
-  -webkit-animation: moveSpot-7 0.5s 0.93333s linear infinite;
-          animation: moveSpot-7 0.5s 0.93333s linear infinite;
+  -webkit-animation: moveSpot-7 0.5s 0.63333s linear infinite;
+          animation: moveSpot-7 0.5s 0.63333s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(8) {
-  -webkit-animation: moveSpot-8 0.5s 0.84s linear infinite;
-          animation: moveSpot-8 0.5s 0.84s linear infinite;
+  -webkit-animation: moveSpot-8 0.5s 1.04s linear infinite;
+          animation: moveSpot-8 0.5s 1.04s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(9) {
-  -webkit-animation: moveSpot-9 0.5s 0.34444s linear infinite;
-          animation: moveSpot-9 0.5s 0.34444s linear infinite;
+  -webkit-animation: moveSpot-9 0.5s 0.55714s linear infinite;
+          animation: moveSpot-9 0.5s 0.55714s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(10) {
@@ -1121,213 +1121,213 @@ HTML template:
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(11) {
-  -webkit-animation: moveSpot-11 0.5s 1.08s linear infinite;
-          animation: moveSpot-11 0.5s 1.08s linear infinite;
+  -webkit-animation: moveSpot-11 0.5s 1.13333s linear infinite;
+          animation: moveSpot-11 0.5s 1.13333s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(12) {
-  -webkit-animation: moveSpot-12 0.5s 0.65714s linear infinite;
-          animation: moveSpot-12 0.5s 0.65714s linear infinite;
+  -webkit-animation: moveSpot-12 0.5s 0.34s linear infinite;
+          animation: moveSpot-12 0.5s 0.34s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(13) {
-  -webkit-animation: moveSpot-13 0.5s 0.94444s linear infinite;
-          animation: moveSpot-13 0.5s 0.94444s linear infinite;
+  -webkit-animation: moveSpot-13 0.5s 0.44444s linear infinite;
+          animation: moveSpot-13 0.5s 0.44444s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(14) {
-  -webkit-animation: moveSpot-14 0.5s 0.44444s linear infinite;
-          animation: moveSpot-14 0.5s 0.44444s linear infinite;
+  -webkit-animation: moveSpot-14 0.5s 1s linear infinite;
+          animation: moveSpot-14 0.5s 1s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(15) {
-  -webkit-animation: moveSpot-15 0.5s 0.73333s linear infinite;
-          animation: moveSpot-15 0.5s 0.73333s linear infinite;
+  -webkit-animation: moveSpot-15 0.5s 0.4s linear infinite;
+          animation: moveSpot-15 0.5s 0.4s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(16) {
-  -webkit-animation: moveSpot-16 0.5s 0.96667s linear infinite;
-          animation: moveSpot-16 0.5s 0.96667s linear infinite;
+  -webkit-animation: moveSpot-16 0.5s 0.5s linear infinite;
+          animation: moveSpot-16 0.5s 0.5s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(17) {
-  -webkit-animation: moveSpot-17 0.5s 0.26667s linear infinite;
-          animation: moveSpot-17 0.5s 0.26667s linear infinite;
+  -webkit-animation: moveSpot-17 0.5s 0.7s linear infinite;
+          animation: moveSpot-17 0.5s 0.7s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(18) {
-  -webkit-animation: moveSpot-18 0.5s 0.63333s linear infinite;
-          animation: moveSpot-18 0.5s 0.63333s linear infinite;
+  -webkit-animation: moveSpot-18 0.5s 0.7s linear infinite;
+          animation: moveSpot-18 0.5s 0.7s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(19) {
-  -webkit-animation: moveSpot-19 0.5s 0.53333s linear infinite;
-          animation: moveSpot-19 0.5s 0.53333s linear infinite;
+  -webkit-animation: moveSpot-19 0.5s 0.14s linear infinite;
+          animation: moveSpot-19 0.5s 0.14s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(20) {
-  -webkit-animation: moveSpot-20 0.5s 0.23333s linear infinite;
-          animation: moveSpot-20 0.5s 0.23333s linear infinite;
+  -webkit-animation: moveSpot-20 0.5s 1.3s linear infinite;
+          animation: moveSpot-20 0.5s 1.3s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(21) {
-  -webkit-animation: moveSpot-21 0.5s 0.94s linear infinite;
-          animation: moveSpot-21 0.5s 0.94s linear infinite;
+  -webkit-animation: moveSpot-21 0.5s 0.86667s linear infinite;
+          animation: moveSpot-21 0.5s 0.86667s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(22) {
-  -webkit-animation: moveSpot-22 0.5s 0.76667s linear infinite;
-          animation: moveSpot-22 0.5s 0.76667s linear infinite;
+  -webkit-animation: moveSpot-22 0.5s 0.9s linear infinite;
+          animation: moveSpot-22 0.5s 0.9s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(23) {
-  -webkit-animation: moveSpot-23 0.5s 0.64s linear infinite;
-          animation: moveSpot-23 0.5s 0.64s linear infinite;
+  -webkit-animation: moveSpot-23 0.5s 0.4s linear infinite;
+          animation: moveSpot-23 0.5s 0.4s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(24) {
-  -webkit-animation: moveSpot-24 0.5s 1.3s linear infinite;
-          animation: moveSpot-24 0.5s 1.3s linear infinite;
+  -webkit-animation: moveSpot-24 0.5s 0.84s linear infinite;
+          animation: moveSpot-24 0.5s 0.84s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(25) {
-  -webkit-animation: moveSpot-25 0.5s 0.8s linear infinite;
-          animation: moveSpot-25 0.5s 0.8s linear infinite;
+  -webkit-animation: moveSpot-25 0.5s 0.5s linear infinite;
+          animation: moveSpot-25 0.5s 0.5s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(26) {
-  -webkit-animation: moveSpot-26 0.5s 0.83333s linear infinite;
-          animation: moveSpot-26 0.5s 0.83333s linear infinite;
+  -webkit-animation: moveSpot-26 0.5s 1.2s linear infinite;
+          animation: moveSpot-26 0.5s 1.2s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(27) {
-  -webkit-animation: moveSpot-27 0.5s 0.8s linear infinite;
-          animation: moveSpot-27 0.5s 0.8s linear infinite;
+  -webkit-animation: moveSpot-27 0.5s 0.35s linear infinite;
+          animation: moveSpot-27 0.5s 0.35s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(28) {
-  -webkit-animation: moveSpot-28 0.5s 0.7s linear infinite;
-          animation: moveSpot-28 0.5s 0.7s linear infinite;
+  -webkit-animation: moveSpot-28 0.5s 1.1s linear infinite;
+          animation: moveSpot-28 0.5s 1.1s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(29) {
-  -webkit-animation: moveSpot-29 0.5s 0.35s linear infinite;
-          animation: moveSpot-29 0.5s 0.35s linear infinite;
+  -webkit-animation: moveSpot-29 0.5s 1.13333s linear infinite;
+          animation: moveSpot-29 0.5s 1.13333s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(30) {
-  -webkit-animation: moveSpot-30 0.5s 0.84s linear infinite;
-          animation: moveSpot-30 0.5s 0.84s linear infinite;
+  -webkit-animation: moveSpot-30 0.5s 1.2s linear infinite;
+          animation: moveSpot-30 0.5s 1.2s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(31) {
-  -webkit-animation: moveSpot-31 0.5s 0.78s linear infinite;
-          animation: moveSpot-31 0.5s 0.78s linear infinite;
+  -webkit-animation: moveSpot-31 0.5s 0.85714s linear infinite;
+          animation: moveSpot-31 0.5s 0.85714s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(32) {
-  -webkit-animation: moveSpot-32 0.5s 0.45s linear infinite;
-          animation: moveSpot-32 0.5s 0.45s linear infinite;
+  -webkit-animation: moveSpot-32 0.5s 0.26667s linear infinite;
+          animation: moveSpot-32 0.5s 0.26667s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(33) {
-  -webkit-animation: moveSpot-33 0.5s 0.6s linear infinite;
-          animation: moveSpot-33 0.5s 0.6s linear infinite;
+  -webkit-animation: moveSpot-33 0.5s 0.85s linear infinite;
+          animation: moveSpot-33 0.5s 0.85s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(34) {
-  -webkit-animation: moveSpot-34 0.5s 0.65s linear infinite;
-          animation: moveSpot-34 0.5s 0.65s linear infinite;
+  -webkit-animation: moveSpot-34 0.5s 0.25s linear infinite;
+          animation: moveSpot-34 0.5s 0.25s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(35) {
-  -webkit-animation: moveSpot-35 0.5s 0.74s linear infinite;
-          animation: moveSpot-35 0.5s 0.74s linear infinite;
+  -webkit-animation: moveSpot-35 0.5s 0.74444s linear infinite;
+          animation: moveSpot-35 0.5s 0.74444s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(36) {
-  -webkit-animation: moveSpot-36 0.5s 1.06667s linear infinite;
-          animation: moveSpot-36 0.5s 1.06667s linear infinite;
+  -webkit-animation: moveSpot-36 0.5s 0.56667s linear infinite;
+          animation: moveSpot-36 0.5s 0.56667s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(37) {
-  -webkit-animation: moveSpot-37 0.5s 0.95s linear infinite;
-          animation: moveSpot-37 0.5s 0.95s linear infinite;
+  -webkit-animation: moveSpot-37 0.5s 0.7s linear infinite;
+          animation: moveSpot-37 0.5s 0.7s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(38) {
-  -webkit-animation: moveSpot-38 0.5s 0.96667s linear infinite;
-          animation: moveSpot-38 0.5s 0.96667s linear infinite;
+  -webkit-animation: moveSpot-38 0.5s 0.66667s linear infinite;
+          animation: moveSpot-38 0.5s 0.66667s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(39) {
-  -webkit-animation: moveSpot-39 0.5s 0.85714s linear infinite;
-          animation: moveSpot-39 0.5s 0.85714s linear infinite;
+  -webkit-animation: moveSpot-39 0.5s 0.46667s linear infinite;
+          animation: moveSpot-39 0.5s 0.46667s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(40) {
-  -webkit-animation: moveSpot-40 0.5s 1s linear infinite;
-          animation: moveSpot-40 0.5s 1s linear infinite;
+  -webkit-animation: moveSpot-40 0.5s 0.86667s linear infinite;
+          animation: moveSpot-40 0.5s 0.86667s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(41) {
-  -webkit-animation: moveSpot-41 0.5s 1s linear infinite;
-          animation: moveSpot-41 0.5s 1s linear infinite;
+  -webkit-animation: moveSpot-41 0.5s 0.43333s linear infinite;
+          animation: moveSpot-41 0.5s 0.43333s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(42) {
-  -webkit-animation: moveSpot-42 0.5s 0.94s linear infinite;
-          animation: moveSpot-42 0.5s 0.94s linear infinite;
+  -webkit-animation: moveSpot-42 0.5s 0.6s linear infinite;
+          animation: moveSpot-42 0.5s 0.6s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(43) {
-  -webkit-animation: moveSpot-43 0.5s 0.68s linear infinite;
-          animation: moveSpot-43 0.5s 0.68s linear infinite;
+  -webkit-animation: moveSpot-43 0.5s 0.93333s linear infinite;
+          animation: moveSpot-43 0.5s 0.93333s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(44) {
-  -webkit-animation: moveSpot-44 0.5s 0.9s linear infinite;
-          animation: moveSpot-44 0.5s 0.9s linear infinite;
+  -webkit-animation: moveSpot-44 0.5s 0.54444s linear infinite;
+          animation: moveSpot-44 0.5s 0.54444s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(45) {
-  -webkit-animation: moveSpot-45 0.5s 0.98s linear infinite;
-          animation: moveSpot-45 0.5s 0.98s linear infinite;
+  -webkit-animation: moveSpot-45 0.5s 0.28s linear infinite;
+          animation: moveSpot-45 0.5s 0.28s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(46) {
-  -webkit-animation: moveSpot-46 0.5s 0.86667s linear infinite;
-          animation: moveSpot-46 0.5s 0.86667s linear infinite;
+  -webkit-animation: moveSpot-46 0.5s 0.45714s linear infinite;
+          animation: moveSpot-46 0.5s 0.45714s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(47) {
-  -webkit-animation: moveSpot-47 0.5s 0.53333s linear infinite;
-          animation: moveSpot-47 0.5s 0.53333s linear infinite;
+  -webkit-animation: moveSpot-47 0.5s 1.1s linear infinite;
+          animation: moveSpot-47 0.5s 1.1s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(48) {
-  -webkit-animation: moveSpot-48 0.5s 0.7s linear infinite;
-          animation: moveSpot-48 0.5s 0.7s linear infinite;
+  -webkit-animation: moveSpot-48 0.5s 0.2s linear infinite;
+          animation: moveSpot-48 0.5s 0.2s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(49) {
-  -webkit-animation: moveSpot-49 0.5s 0.88s linear infinite;
-          animation: moveSpot-49 0.5s 0.88s linear infinite;
+  -webkit-animation: moveSpot-49 0.5s 0.84s linear infinite;
+          animation: moveSpot-49 0.5s 0.84s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(50) {
-  -webkit-animation: moveSpot-50 0.5s 0.4s linear infinite;
-          animation: moveSpot-50 0.5s 0.4s linear infinite;
+  -webkit-animation: moveSpot-50 0.5s 0.5s linear infinite;
+          animation: moveSpot-50 0.5s 0.5s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(51) {
-  -webkit-animation: moveSpot-51 0.5s 0.56667s linear infinite;
-          animation: moveSpot-51 0.5s 0.56667s linear infinite;
+  -webkit-animation: moveSpot-51 0.5s 1.13333s linear infinite;
+          animation: moveSpot-51 0.5s 1.13333s linear infinite;
 }
 
 .button--fizzy:hover .fizzy-spot:nth-of-type(52) {
-  -webkit-animation: moveSpot-52 0.5s 0.15714s linear infinite;
-          animation: moveSpot-52 0.5s 0.15714s linear infinite;
+  -webkit-animation: moveSpot-52 0.5s 1.3s linear infinite;
+          animation: moveSpot-52 0.5s 1.3s linear infinite;
 }
 
 @-webkit-keyframes changeOpacity {
@@ -2515,13 +2515,13 @@ figure.skill-logo figcaption {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  -ms-grid-columns: (25px)[4];
-      grid-template-columns: repeat(4, 25px);
-  gap: 2em;
+  -ms-grid-columns: (25px)[2];
+      grid-template-columns: repeat(2, 25px);
+  gap: 2.2em;
 }
 
 .socialBar ul img {
-  width: 25px;
+  width: 30px;
 }
 
 .socialBar ul img:hover {
@@ -2598,12 +2598,9 @@ section.hero {
     display: flex;
   }
   .hero .hero__content {
+    width: 100%;
     margin: auto;
     margin-left: 0;
-  }
-  .hero .hero__link {
-    width: 17vw;
-    margin-right: 1.5em;
   }
   .hero .hero__actions {
     -webkit-box-orient: horizontal;
@@ -2611,6 +2608,9 @@ section.hero {
         -ms-flex-direction: row;
             flex-direction: row;
     text-align: center;
+  }
+  .hero .hero__actions .hero__link {
+    width: 17vw;
   }
 }
 
@@ -3051,32 +3051,59 @@ section.contact {
   opacity: 0.8;
 }
 
+section.summary {
+  padding-top: 5em;
+  height: auto;
+}
+
+section.summary h1 {
+  font-size: 3rem;
+  display: inline;
+}
+
 .pillars__item {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  text-align: left;
-  -webkit-box-ordinal-group: 2;
-      -ms-flex-order: 1;
-          order: 1;
   padding: 2em 0;
+  text-align: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .pillars__item img {
   width: 300px;
 }
 
-.pillars__item img.right {
-  -webkit-box-ordinal-group: 3;
-      -ms-flex-order: 2;
-          order: 2;
-  margin-left: 3em;
-}
-
-.pillars__item img.left {
-  -webkit-box-ordinal-group: 1;
-      -ms-flex-order: 0;
-          order: 0;
-  margin-right: 3em;
+@media only screen and (min-width: 1024px) {
+  .pillars__item {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    text-align: left;
+  }
+  .pillars__item p {
+    -webkit-box-ordinal-group: 1;
+        -ms-flex-order: 0;
+            order: 0;
+  }
+  .pillars__item img.right {
+    -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+            order: 1;
+    margin-left: 3em;
+  }
+  .pillars__item img.left {
+    -webkit-box-ordinal-group: 0;
+        -ms-flex-order: -1;
+            order: -1;
+    margin-right: 3em;
+  }
 }
 /*# sourceMappingURL=main.css.map */

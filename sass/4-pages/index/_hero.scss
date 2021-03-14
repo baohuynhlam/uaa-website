@@ -55,16 +55,16 @@ section.hero {
 		// Centering the hero's content
 		display: flex;
 		.hero__content {
+			width: 100%;
 			margin: auto;
 			margin-left: 0;
 		}        
-		.hero__link{
-			width: 17vw;
-			margin-right: 1.5em;
-		}
 		.hero__actions {
 			flex-direction: row;
 			text-align: center;
+			.hero__link{
+				width: 17vw;
+			}
 		}
 	}
 }
