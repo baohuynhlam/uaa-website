@@ -1,0 +1,17 @@
+.pillars__item {
+    display: flex;
+    text-align: left;
+    order: 1;
+    padding: 2em 0;
+    img {
+        width: 300px;
+        &.right {
+            order: 2;
+            margin-left: 3em;
+        }
+        &.left {
+            order: 0;
+            margin-right: 3em;
+        }
+    }
+}

@@ -1,0 +1,62 @@
+// "Standard" styles are for popular elements in the project
+// that should share some same standard basic styles
+
+// Poppins font
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+
+html {
+    scroll-behavior: smooth;
+    @include respond-min-width('desktop') {
+        font-size: 1.25vw;
+    }
+    box-sizing: border-box;
+	*, *:after, *:before {
+		box-sizing: inherit;
+    }
+    
+    *:focus {
+        outline: 2px dashed orange;
+    }
+}
+
+body {
+	background-color: $bg;
+	font-family: "Poppins", sans-serif;
+	position: relative;
+	color: $gray;
+}
+
+section {
+	padding: 2em 2rem;
+    text-align: center;
+    @include respond-min-width('desktop') {
+        padding: 3em 9vw;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+}
+
+button {
+    padding: 0.4em 0.6em;
+    cursor: pointer;
+}
+
+form {
+    label {
+        display: block;
+        text-align: left;
+    }
+    input, textarea {
+        width: 100%;
+        height: 100%;
+        box-shadow: none;
+        border: 2px solid transparent;
+        padding: 7px;
+        &:focus {
+            outline: none;
+            border: 3px solid $gray;
+        }
+    }
+}
